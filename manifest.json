@@ -1,0 +1,19 @@
+{
+  "name": "btc_browser_wallet",
+  "description": "",
+  "version": "0.0.1",
+  "app": {
+    "urls": [
+      "https://btc-browser-wallet.5apps.com/"
+    ],
+    "launch": {
+      "web_url": "https://btc-browser-wallet.5apps.com/"
+    }
+  },
+  "icons": {
+    "16": "icon_x16.png",
+    "48": "icon_x48.png",
+    "128": "icon_x128.png"
+  },
+  "manifest_version": 2
+}
